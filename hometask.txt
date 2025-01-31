@@ -1,0 +1,7 @@
+Различия между master и demo ветками:
+В файле README в ветке demo нет текста "with nice buttons on his jacket (buttons branch)", а в ветке master - есть.
+
+Коммиты удаленного репозитория:
+1) fix readme
+2) README added
+3) init
